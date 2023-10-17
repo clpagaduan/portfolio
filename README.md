@@ -1,28 +1,35 @@
-# CL pagaduan's Portfolio
+# CL Pagaduan's Portfolio
 
-CV: Please see here 
+CV: https://github.com/clpagaduan/profile/blob/main/CV-PAGADUAN-CHRISTIAN-LOUIES.pdf
 
-Company: MindArc
+Portfolio in summarized pdf:
+https://github.com/clpagaduan/profile/blob/main/PORTFOLIO-PAGADUAN-CHRISTIAN-LOUIES.pdf
 
-Role: Quality Assurance Team Lead
 
-Industry: Digital Marketing, e-Commerce
+-------------------------------------------------------------------------
 
-Headquarters: Sydney, Australia
+**Company**: MindArc
+_April 2022 - September 2023
+_
+**Role**: Quality Assurance Team Lead
 
-Satellite Office: Manila, Philippines
+**Industry**: Digital Marketing, e-Commerce
 
-Client: 
+**Headquarters**: Sydney, Australia
+
+**Satellite Office**: Manila, Philippines
+
+**Client**: 
 - Main Client: MindArc
 - MindArc clients: several retail, fashion, and e-commerce clients all over Australia and New Zealand (see below)
 
-Website: https://www.mindarc.com.au/
+**Website**: https://www.mindarc.com.au/
 
-Key Projects:
+**Key Projects**:
 Jac and Jack website revamp
 - https://jacandjack.com/
 
-Support tickets for:
+**Support tickets for**:
 - https://strandbags.com.au/
 - https://th.loccitane.com/
 - https://my.loccitane.com/
@@ -43,7 +50,7 @@ Support tickets for:
 
 Automation framework using Virtuoso, Ghost Inspector, and Github via CI/CD
 
-Testing Activities involved:
+**Testing Activities involved**:
 
 - Test management
 - Manual functional and visual web app testing
@@ -55,7 +62,7 @@ Testing Activities involved:
 - Automation testing for Web apps
 - QA audit checklist for new clients
 
-Tools:
+**Tools**:
 
 - Crossbrowser testing: Browserstack, actual devices
 - API Testing: Postman
@@ -69,21 +76,21 @@ Tools:
 -------------------------------------------------------------------------
 
 
-Company: Canada Computers and Electronics Inc
+**Company**: Canada Computers and Electronics Inc
 
-Role: Software Quality Analyst
+**Role**: Software Quality Analyst
 
-Industry: Retail, e-commerce
+**Industry**: Retail, e-commerce
 
-Headquarters: Toronto, Canada
+**Headquarters**: Toronto, Canada
 
-Satellite Office: Pasig City, Philippines
+**Satellite Office**: Pasig City, Philippines
 
-Client: Canada Computers Inc
+**Client**: Canada Computers Inc
 
-Website: https://www.canadacomputers.com/ 
+**Website**: https://www.canadacomputers.com/ 
 
-Key Projects
+**Key Projects**
 
 - Canada Computers website testing: https://www.canadacomputers.com/
 - Automation framework using Robot Framework, Jenkins pipeline, and Github Integration
@@ -94,19 +101,19 @@ Key Projects
 - Canada Computers Android Mobile App
 - lack Friday Sale performance testing
 
-See automation repositories here:
+**See automation repositories here**:
 - https://github.com/clpagaduan/cc-web-test002
 - https://github.com/clpagaduan/cc-hrms-test001
 - https://github.com/clpagaduan/cc-erp-test-001
 
-Testing activities involved:
+**Testing activities involved**:
 
 - Helped pioneer the QA team of Canada Computers Inc
 - Manual functional and visual web and mobile app testing
 - Manual API testing
 - Automation testing for Web apps
 
-Tools:
+**Tools**:
 
 - Crossbrowser testing: Multiple browsers only
 - Log analysis: None
@@ -123,23 +130,25 @@ Tools:
 -------------------------------------------------------------------------
 
 
-Company: Infor PSSC
+**Company**: Infor PSSC
 
-Role: Quality Assurance Analyst, Associate
+**Role**: Quality Assurance Analyst, Associate
 
-Industry: SaaS, Enterprise
+**Industry**: SaaS, Enterprise
 
-Headquarters: New York, United States
+**Headquarters**: New York, United States
 
-Satellite Office: Taguig City, Philippines
+**Satellite Office**: Taguig City, Philippines
 
-Client: B2B/B2C clients in US and EU
+**Client**: B2B/B2C clients in US and EU
 
-Website: https://www.infor.com/en-sg
+**Website**: https://www.infor.com/en-sg
 
-Key Project:
+**Key Project**:
 
-Rhythm for Commerce (B2B/B2C) https://www.infor.com/solutions/service-sales/ecommerce
+**Rhythm for Commerce (B2B/B2C)** 
+
+https://www.infor.com/solutions/service-sales/ecommerce
 
 - Multiple Unit of Measures for Product Quantities
 - Multiple Warehouse selection in Checkout
@@ -150,8 +159,8 @@ Rhythm for Commerce (B2B/B2C) https://www.infor.com/solutions/service-sales/ecom
 - 3rd Party Payment Implementation
 - Market Specific Terms and Conditions
 
-Testing activities involved:
-
+**Testing activities involved:
+**
 - Manual functional and visual web app testing
 - Manual API testing
 - Manual Integration testing
@@ -159,7 +168,7 @@ Testing activities involved:
 - Production deployment testing
 - Automation testing for Web apps
 
-Tools:
+**Tools**:
 
 - Crossbrowser testing: Browserstack
 - Log analysis: Sumo Logic
@@ -170,4 +179,29 @@ Tools:
 - Communications: Microsoft Teams, Outlook
 - Test automation: Selenium Robot Framework
 - Test case management: Testlink
+
+
+-------------------------------------------------------------------------
+
+
+**Company**: Metropolitan Bank and Trust Company
+
+**Role**: Software Test Engineer (internship)
+
+**Industry**: Banking
+
+**Head Office**: Makati, Philippines
+
+
+**Key Projects**:
+- Remittance Compliance System enhancements
+
+**Testing activities involved**:
+- Manual functional and visual web app testing
+- Manual Integration testing
+
+**Tools**:
+- Bug reporting: Excel
+- Test documentation: Excel, Word
+- Communications: Outlook
 
