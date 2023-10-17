@@ -9,9 +9,10 @@ https://github.com/clpagaduan/profile/blob/main/PORTFOLIO-PAGADUAN-CHRISTIAN-LOU
 -------------------------------------------------------------------------
 
 **Company**: MindArc
-_April 2022 - September 2023
-_
+
 **Role**: Quality Assurance Team Lead
+
+_April 2022 - September 2023_
 
 **Industry**: Digital Marketing, e-Commerce
 
@@ -80,6 +81,8 @@ Automation framework using Virtuoso, Ghost Inspector, and Github via CI/CD
 
 **Role**: Software Quality Analyst
 
+_November 2021 - April 2022_
+
 **Industry**: Retail, e-commerce
 
 **Headquarters**: Toronto, Canada
@@ -134,6 +137,8 @@ Automation framework using Virtuoso, Ghost Inspector, and Github via CI/CD
 
 **Role**: Quality Assurance Analyst, Associate
 
+_November 2019 - November 2021_
+
 **Industry**: SaaS, Enterprise
 
 **Headquarters**: New York, United States
@@ -187,6 +192,8 @@ https://www.infor.com/solutions/service-sales/ecommerce
 **Company**: Metropolitan Bank and Trust Company
 
 **Role**: Software Test Engineer (internship)
+
+_June 2019 - September 2019_
 
 **Industry**: Banking
 
