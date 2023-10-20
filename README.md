@@ -8,7 +8,7 @@ https://github.com/clpagaduan/profile/blob/main/PORTFOLIO-PAGADUAN-CHRISTIAN-LOU
 
 -------------------------------------------------------------------------
 
-**Company**: MindArc
+**<h3>MindArc</h3>**
 
 **Role**: Quality Assurance Team Lead
 
@@ -77,7 +77,7 @@ Automation framework using Virtuoso, Ghost Inspector, and Github via CI/CD
 -------------------------------------------------------------------------
 
 
-**Company**: Canada Computers and Electronics Inc
+**<h3>Canada Computers and Electronics Inc</h3>**
 
 **Role**: Software Quality Analyst
 
@@ -133,7 +133,7 @@ _November 2021 - April 2022_
 -------------------------------------------------------------------------
 
 
-**Company**: Infor PSSC
+**<h3>Infor PSSC </h3>**
 
 **Role**: Quality Assurance Analyst, Associate
 
@@ -189,7 +189,7 @@ https://www.infor.com/solutions/service-sales/ecommerce
 -------------------------------------------------------------------------
 
 
-**Company**: Metropolitan Bank and Trust Company
+**<h3>Metropolitan Bank and Trust Company</h3>**
 
 **Role**: Software Test Engineer (internship)
 
